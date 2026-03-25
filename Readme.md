@@ -72,3 +72,19 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Tabulation 
+<img width="1419" height="1303" alt="image" src="https://github.com/user-attachments/assets/98df40f8-e2f7-46b0-9fa9-432f2f1f5ec0" />
+
+<img width="1500" height="1112" alt="image" src="https://github.com/user-attachments/assets/28cb7086-e57d-4e53-af73-e918f5810ce2" />
+
+---
+
+## Output
+<img width="1920" height="1080" alt="Screenshot 2026-03-16 204122" src="https://github.com/user-attachments/assets/ffb2957e-21b3-4baa-8044-e1bc96d2eaa0" />
+
+---
+
+## Result
+thus the reciever sensitivity is obtained and calculated
+
+---
